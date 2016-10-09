@@ -1,0 +1,35 @@
+---
+title:  'PDaaS - Personal Data as a Service'
+subtitle: 'Open Specification of the concept called Personal Data as a Service'
+author:
+    -   'lucendio'
+
+
+# should be: last change at
+date:   \today
+version: '0.0.1'
+
+abstract: 'TODO'
+keywords:
+    -   'personal data'
+    -   'personal data as a service'
+    -   'web service architecture'
+    -   'open specification'
+# tags: []
+
+lang: 'en'
+
+
+# can only be file contents not a path ref to a file
+header-includes: |
+include-before: |
+include-after: |
+
+
+links-as-notes: true
+toc-title: 'Table of Contents'
+toc-depth: 3
+#lof: true   # include list of figures
+#lot: true   # include list of tables
+#link-citations: true
+...

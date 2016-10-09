@@ -1,0 +1,13 @@
+---
+# latex params (pandoc.org/MANUAL.html#variables-for-latex)
+
+documentclass: 'report'
+papersize: 'a4'
+fontsize: '12pt'
+#linestretch: '1.25'     # line space
+#fontfamily
+
+classoption:
+    -   'titlepage'
+    -   'dottedtoc'
+...

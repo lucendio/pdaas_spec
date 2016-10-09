@@ -1,0 +1,14 @@
+{
+    "name": "PDaaS-Spec",
+    "description": "Open Specification of the concept called Personal Data as a Service",
+    "version": "0.0.1",
+
+    "scripts": {
+        "install": "make install",
+        "build": "make html && make pdf"
+    },
+
+    "devDependencies": {
+
+    }
+}
